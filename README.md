@@ -1,3 +1,19 @@
+# AGENTZERO-FORK
+
+## Origine
+- Fork de : **Agent Zero**
+- Auteur : agent0ai
+- Dépôt d'origine : https://github.com/agent0ai/agent-zero
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 <div align="center">
 
 <img src="docs/res/a0-vector-graphics/horizontal_banner.svg" alt="Agent Zero Banner" width="100%"/>
